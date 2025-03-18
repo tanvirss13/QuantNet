@@ -2,7 +2,7 @@
 ### Taught by: Dr. Daniel Duffy
 
 ## Part 1
-> Basic History of C <br>
-> Basic History of C++
-> Comipler and Linker Errors
-> Basic Programs
+> Basic History of C \
+> Basic History of C++ \
+> Comipler and Linker Errors \
+> Basic Programs \
