@@ -1,5 +1,5 @@
-<h3>This folder contains all my code from QuantNet Baruch MFE C++ for Financial Engineering.</h3> 
-<h3> Taught by: Dr. Daniel Duffy </h3>
+### This folder contains all my code from QuantNet Baruch MFE C++ for Financial Engineering.
+### Taught by: Dr. Daniel Duffy
 
 ## Part 1
 > Basic History of C
